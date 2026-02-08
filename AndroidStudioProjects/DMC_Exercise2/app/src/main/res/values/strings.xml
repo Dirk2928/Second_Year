@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DMC_Exercise2</string>
+    <string name="strName">BSCS2A</string>
+    <string name="btnRed">RED</string>
+    <string name="btnGreen">GREEN</string>
+    <string name="btnYellow">YELLOW</string>
+</resources>
